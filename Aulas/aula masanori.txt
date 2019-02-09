@@ -1,0 +1,16 @@
+a = int(input("Primeiro Valor:"))
+b = int(input("Segundo Valor:"))
+if a > b:
+	print("O primeiro valor é maior")
+if b > a:
+	print("O segundo valor maior")
+	else:
+	print("São os mesmos números")
+	
+
+ano = int(input("Ano do carro:"))
+if ano >= 2015:
+	print("Seu carro é novo")
+if ano < 2015:
+	print("Seu carro é VELHO. Sorry!")
+
